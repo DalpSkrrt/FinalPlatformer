@@ -1,0 +1,12 @@
+C:\Users\User1\Desktop\Nick Boenau\Week 02\platformgame\platformgame\bin\Debug\platformgame.exe.config
+C:\Users\User1\Desktop\Nick Boenau\Week 02\platformgame\platformgame\bin\Debug\platformgame.exe
+C:\Users\User1\Desktop\Nick Boenau\Week 02\platformgame\platformgame\bin\Debug\platformgame.pdb
+C:\Users\User1\Desktop\Nick Boenau\Week 02\platformgame\platformgame\obj\Debug\platformgame.csprojResolveAssemblyReference.cache
+C:\Users\User1\Desktop\Nick Boenau\Week 02\platformgame\platformgame\obj\Debug\platformgame.Form1.resources
+C:\Users\User1\Desktop\Nick Boenau\Week 02\platformgame\platformgame\obj\Debug\platformgame.Properties.Resources.resources
+C:\Users\User1\Desktop\Nick Boenau\Week 02\platformgame\platformgame\obj\Debug\platformgame.csproj.GenerateResource.Cache
+C:\Users\User1\Desktop\Nick Boenau\Week 02\platformgame\platformgame\obj\Debug\platformgame.exe
+C:\Users\User1\Desktop\Nick Boenau\Week 02\platformgame\platformgame\obj\Debug\platformgame.pdb
+C:\Users\User1\Source\Repos\FinalPlatformer\platformgame\bin\Debug\platformgame.exe.config
+C:\Users\User1\Source\Repos\FinalPlatformer\platformgame\obj\Debug\platformgame.exe
+C:\Users\User1\Source\Repos\FinalPlatformer\platformgame\obj\Debug\platformgame.pdb
